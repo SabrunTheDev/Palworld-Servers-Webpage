@@ -1,2 +1,0 @@
-# palworldserversetup
-# Palworld-Servers-Webpage
